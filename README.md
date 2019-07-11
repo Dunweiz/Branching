@@ -4,7 +4,9 @@
 
 * 'git init' - Create Git repo
 
+
 * 'git add thing' - Stage 'thing' for commit
+
 
 * 'git commit' - commit
 
