@@ -5,6 +5,9 @@
 * 'git init' - Create Git repo
 
 
+* 'git add thing' - Stage 'thing' for commit
+
+
 * 'git commit' - commit
 
 ### Branching Commands
@@ -16,3 +19,5 @@
 * 'git branch branchName' - Create branch 'branchName'
 
 * 'git checkout branchName' - make 'branchName' the current branch in working directory
+
+* 'git checkout -b branchName' - Create branch 'branchName' and check it out.
